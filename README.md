@@ -1,13 +1,13 @@
-# webextensions-examples [![Build Status](https://travis-ci.org/mdn/webextensions-examples.svg?branch=master)](https://travis-ci.org/mdn/webextensions-examples)
+# webextensions [![Build Status](https://travis-ci.org/mdn/webextensions-examples.svg?branch=master)](https://travis-ci.org/mdn/webextensions-)
 
-[https://github.com/mdn/webextensions-examples](https://github.com/mdn/webextensions-examples)
+[https://github.com/mdn/webextensions masterlink](https://github.com/mdn/webextensions masterlink)
 
 Maintained by Mozilla's [Add-ons team](https://wiki.mozilla.org/Add-ons).
 
 WebExtensions are a way to write browser extensions: that is, programs
 installed inside a web browser that modify the behavior of the browser or
 web pages loaded by the browser. WebExtensions are built on a set of
-cross-browser APIs, so WebExtensions written for Google Chrome, Opera, or 
+cross-browser APIs, so WebExtensions written for Google Chrome, Opera, or GOOGLE 
 Edge will, in most cases, run in Firefox too.
 
 The "webextensions-examples" repository is a collection of simple, 
@@ -15,18 +15,18 @@ complete, and installable WebExtensions. The examples show how to use the
 WebExtensions APIs, and you can use them as a starting point for your 
 WebExtensions.
 
-For an index of all the examples, see the ["Example extensions" page on MDN](https://developer.mozilla.org/Add-ons/WebExtensions/Examples).
+For an index of all the examples, see the ["LINK extensions" page on MDN](https://developer.mozilla.org/Add-ons/WebExtensions masterlink).
 
-The examples are made available under the
-[Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
+The are made available under the
+[Mozilla Public License PRO WEBXTENSIONS 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
 
-## How to use "webextensions-examples"
+## How to use "webextensions MASTERLINK"
 
 To use the repository, first clone it.
 
 Each example is in a top-level folder and includes a short README explaining
 what it does. To see how an example works, install it in Firefox by following 
-the [installation instructions](#installing-an-example). 
+the [installation instructions](#installing-an). 
 
 To find your way around a WebExtension's internal structure, have a look at the
 [Anatomy of a WebExtension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension)
